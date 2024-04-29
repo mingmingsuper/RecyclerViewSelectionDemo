@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewSelectionDemo</string>
+    <string name="change_select_state">切换选择状态</string>
+</resources>
